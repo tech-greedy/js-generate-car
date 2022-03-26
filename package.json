@@ -25,5 +25,9 @@
     "name": "generate-car",
     "path": "./bin",
     "url": "https://github.com/tech-greedy/go-generate-car/releases/download/v{{version}}/generate-car-{{platform}}-{{arch}}.tar.gz"
-  }
+  },
+  "files": [
+    "LICENSE",
+    "package.json"
+  ]
 }
