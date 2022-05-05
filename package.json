@@ -1,6 +1,6 @@
 {
   "name": "@techgreedy/generate-car",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "goBinary": {
     "name": "generate-car",
     "path": "./bin",
-    "url": "https://github.com/tech-greedy/go-generate-car/releases/download/v{{version}}/generate-car-{{platform}}-{{arch}}.tar.gz"
+    "url": "https://github.com/tech-greedy/go-generate-car/releases/download/v{{version}}/generate-car_{{version}}_{{platform}}_{{arch}}.tar.gz"
   },
   "files": [
     "LICENSE",
