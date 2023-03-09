@@ -13,7 +13,7 @@
     "url": "git+https://github.com/tech-greedy/js-generate-car.git"
   },
   "author": "",
-  "license": "MIT",
+  "license": "(Apache-2.0 AND MIT)",
   "bugs": {
     "url": "https://github.com/tech-greedy/js-generate-car/issues"
   },
